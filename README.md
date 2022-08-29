@@ -37,7 +37,7 @@ Welcome to my Github! I'm a college student and learning front-end web technolog
 ### Some Stats About L-cuitain
 
 <p align="center" >
-<img alt="L-cuitain's github stats" src="https://github-readme-stats.vercel.app/api?username=L-cuitain&count_private=true&hide=issues,contribs&show_icons=true&bg_color=30,8EC5FC,E0C3FC"  > 
+<img alt="zjp693's github stats" src="https://github-readme-stats.vercel.app/api?username=zjp693&count_private=true&hide=issues,contribs&show_icons=true&bg_color=30,8EC5FC,E0C3FC"  > 
 </p>
 
 
