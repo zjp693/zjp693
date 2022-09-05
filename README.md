@@ -26,16 +26,16 @@
 ![GitHub](https://img.shields.io/badge/github%20-25292d?&style=for-the-badge&logo=github&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
+- 💻 这是我的博客 [zhang_Blog](https://zjp693.github.io/Zhang_blog/)
 
-
-### 我Github贡献的统计数据
+### Github贡献的统计数据
 
 <p align="center" >
 <img alt="zjp693's github stats" src="https://github-readme-stats.vercel.app/api?username=zjp693&count_private=true&hide=issues,contribs&show_icons=true&bg_color=30,8EC5FC,E0C3FC"  > 
 </p>
 
 
-### 我最长用的语言
+### 常用的语言
 
 <p align="center" >
 <img alt="zjp693's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjp693&layout=compact&bg_color=30,8EC5FC,E0C3FC"  > 
